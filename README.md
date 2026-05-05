@@ -1,5 +1,7 @@
 FNP Sales Analysis Dashboard — Excel Project
+
 Project Objective
+
 This project analyzes the sales performance of Ferns N Petals (FNP) — a gifting and flowers brand — using Microsoft Excel.
 The goal is to uncover revenue trends, top-performing products, customer ordering patterns, and city-wise demand to support data-driven business decisions.
 The final output is an interactive Excel dashboard with slicers, pivot charts, and KPI cards that allow stakeholders to filter and explore data dynamically.
