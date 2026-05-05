@@ -1,43 +1,62 @@
-FNP Sales Analysis Dashboard — Excel Project
+📊 FNP Sales Analysis Dashboard — Excel Project
+🔍 Project Overview
 
-Project Objective
+Analyzed sales data for Ferns N Petals (FNP), a leading gifting and flowers brand, using Microsoft Excel to uncover business insights related to revenue trends, customer behavior, and product performance.
 
-This project analyzes the sales performance of Ferns N Petals (FNP) — a gifting and flowers brand — using Microsoft Excel.
-The goal is to uncover revenue trends, top-performing products, customer ordering patterns, and city-wise demand to support data-driven business decisions.
-The final output is an interactive Excel dashboard with slicers, pivot charts, and KPI cards that allow stakeholders to filter and explore data dynamically.
+Built an interactive dashboard to enable stakeholders to monitor KPIs, identify growth opportunities, and make data-driven decisions.
 
-Questions / KPIs Addressed
-1. What is the total number of orders placed?
-2. What is the total revenue generated?
-4. What is the average customer spending per order?
-5. Which occasions (Anniversary, Birthday, Diwali, etc.) drive the most revenue?
-6. How does revenue trend across months — are there seasonal peaks?
-7. Which product categories (Cakes, Colors, Mugs, Sweets, etc.) perform best?
-8. Which top 10 cities place the highest number of orders?
-9. At which hours of the day are orders most frequently placed?
-10 .What are the Top 5 products by revenue?
+🎯 Business Objective
+Evaluate overall sales performance and customer purchasing patterns
+Identify high-revenue occasions and seasonal demand trends
+Analyze product and city-level performance
+Optimize marketing timing and product strategy using data insights
+📌 Key Metrics & Business Questions
+Total Orders & Total Revenue
+Average Order Value (AOV)
+Revenue by Occasion (Diwali, Valentine’s Day, etc.)
+Monthly Revenue Trends (Seasonality Analysis)
+Top Product Categories by Revenue
+Top 10 Cities by Order Volume
+Peak Order Hours (Customer Behavior Analysis)
+Top 5 Products by Revenue Contribution
+🛠️ Approach & Methodology
 
-   Process
-Data Collection: Raw sales data including order IDs, product names, cities, occasions, revenue, and timestamps was gathered from FNP's transactional records.
-Data Cleaning: Duplicate entries were removed, date-time columns were standardized, null values were handled, and order hour was extracted from timestamps for time-based analysis.
-Pivot Table Analysis: Multiple pivot tables were created to aggregate revenue by occasion, month, product category, city, and order hour — forming the backbone of each chart.
-Dashboard Design: All charts were assembled into an interactive Excel dashboard with slicers for Order Date, Delivery Date, and Occasion to enable dynamic filtering.
+1. Data Preparation
 
-Recommendations
-Invest heavily in pre-festival marketing campaigns for Raksha Bandhan and Valentine's Day — especially 2–3 weeks prior — to capitalize on peak buying intent.
-Expand the Colors and Cakes product lines with more variety and bundled gifting options, as these are clear customer favorites.
-Schedule push notifications and email campaigns between 9 PM–11 PM to align with peak ordering hours and maximize conversion rates.
-Focus delivery infrastructure improvements on Tier-2 cities such as those appearing in the top 10 order cities — improving the 5.53-day average delivery time can significantly boost customer satisfaction.
+Cleaned ~1,000+ records by removing duplicates and handling missing values
+Standardized date-time fields and derived order hour for time-based insights
 
-Tools Used
+2. Data Analysis
 
-- Microsoft Excel
-- Pivot Tables & Pivot Charts
-- Slicers & Timeline Filters
-- KPI Summary Cards
+Built multiple Pivot Tables to aggregate revenue across key dimensions:
+Occasion
+Month
+Product Category
+City
+Order Time
 
-![FNP Sales Dashboard](dashboard.png)
+3. Dashboard Development
 
+Designed an interactive Excel dashboard using:
+Pivot Charts
+KPI Cards (Revenue, Orders, AOV)
+Slicers (Order Date, Delivery Date, Occasion)
+Enabled dynamic filtering for quick business exploration
+📈 Key Insights
+Seasonal spikes observed during major occasions like Valentine’s Day and Raksha Bandhan
+Cakes and Colors categories generated the highest revenue share
+Evening hours (9 PM – 11 PM) showed peak customer activity
+Tier-2 cities contributed significantly to order volume, indicating expansion potential
+💡 Business Recommendations
+Launch targeted pre-festival marketing campaigns 2–3 weeks before peak occasions
+Expand high-performing categories (Cakes, Colors) with bundled offers
+Schedule promotions during peak hours (9 PM–11 PM) to maximize conversions
+Improve logistics and delivery time in high-demand Tier-2 cities to enhance customer satisfaction
+🧰 Tools & Skills Used
+Microsoft Excel
+Pivot Tables & Pivot Charts
+Slicers & Timeline Filters
+Data Cleaning & Transformation
 
 
 ![FNP Sales Dashboard](dashboard.png)
