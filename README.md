@@ -59,4 +59,4 @@ Slicers & Timeline Filters
 Data Cleaning & Transformation
 
 
-![FNP Sales Dashboard](dashboard.png)
+![FNP Sales Dashboard](fnp_sales_dashboard.png)
